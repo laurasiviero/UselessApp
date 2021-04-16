@@ -11,7 +11,7 @@ Useless App:
 
 Description:
   - useless but hopefully beautiful;
-  - app that changes its color and themes;
+  - app that changes its colors and themes;
   - Tool for Maya;
 
 *************************************************************************
