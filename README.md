@@ -33,7 +33,7 @@ Instructions:
    - Launch maya;
    - Copy the following line script editor, make sure to change the path in the next lines too:
 
-
+*************************************************************************
   import sys
 
   USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\useless_ui"
@@ -44,6 +44,7 @@ Instructions:
   
   useless_ui.useless_app(USERPATH)
  
+ *************************************************************************
  
  - Feel free to add the code to your shelf;
  - Replace the default shelf icon with the appropriate one: useless_ui\shelf_icon;
