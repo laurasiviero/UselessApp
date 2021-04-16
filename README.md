@@ -1,6 +1,6 @@
 *************************************************************************
 
-Useless App:
+#Useless App:
 
 *************************************************************************
 
@@ -31,13 +31,13 @@ Instructions:
   import sys
 
   USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\useless_ui"
-  
   sys.path.append(USERPATH)
 
   import useless_ui
   useless_ui.useless_app(USERPATH)
  
  
- - Feel free to add the code to your shelf
- - Replace the default shelf icon with the appropriate one: useless_ui\shelf_icon
+ - Feel free to add the code to your shelf;
+ - Replace the default shelf icon with the appropriate one: useless_ui\shelf_icon;
+ - DO NOT MOVE ANY SUBFOLDERS;
  - Have fun!
