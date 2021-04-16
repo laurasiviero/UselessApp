@@ -1,12 +1,13 @@
 *************************************************************************
 
-                            Useless App:
+Useless App:
 
 *************************************************************************
-Description: - useless but hopefully beautiful;
-             - app that changes its color and themes;
-             - Tool for Maya;
-             - No additional library is required;
+
+Description:
+  - useless but hopefully beautiful;
+  - app that changes its color and themes;
+  - Tool for Maya;
 
 *************************************************************************
  License: MIT https://github.com/laurasiviero/UselessApp/blob/main/LICENSE
@@ -27,13 +28,14 @@ Instructions:
    - Copy the following line script editor, make sure to change the path in the next lines too:
 
 
-import sys
+  import sys
 
-USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\useless_ui"
-sys.path.append(USERPATH)
+  USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\useless_ui"
+  
+  sys.path.append(USERPATH)
 
-import useless_ui
-useless_ui.useless_app(USERPATH)
+  import useless_ui
+  useless_ui.useless_app(USERPATH)
  
  
  - Feel free to add the code to your shelf
