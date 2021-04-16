@@ -1,6 +1,6 @@
 *************************************************************************
 
-                            ##Useless App:
+                            Useless App:
 
 *************************************************************************
 Description: - useless but hopefully beautiful;
@@ -9,14 +9,14 @@ Description: - useless but hopefully beautiful;
              - No additional library is required;
 
 *************************************************************************
- [License]: MIT https://github.com/laurasiviero/UselessApp/blob/main/LICENSE
- [Author]: Laura Siviero
+ License: MIT https://github.com/laurasiviero/UselessApp/blob/main/LICENSE
+ Author: Laura Siviero
          laura.seav@gmail.com
  
- [FOR QUICK OVERVIEW:]
+ FOR QUICK OVERVIEW:
  Vimeo : https://vimeo.com/537818552
  
- [Date] 2021.04.17
+ Date: 2021.04.17
 *************************************************************************
 
 Instructions:
