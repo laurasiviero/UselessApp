@@ -37,9 +37,11 @@ Instructions:
   import sys
 
   USERPATH = r"C:\Users\YOU\Documents\maya\20XX\scripts\useless_ui"
+  
   sys.path.append(USERPATH)
 
   import useless_ui
+  
   useless_ui.useless_app(USERPATH)
  
  
