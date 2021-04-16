@@ -3,6 +3,11 @@
 Useless App:
 
 *************************************************************************
+ Author: Laura Siviero
+         laura.seav@gmail.com
+ 
+ Date 17.03.2021
+*************************************************************************
 
 Description:
   - useless but hopefully beautiful;
